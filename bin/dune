@@ -1,0 +1,11 @@
+(executable
+ (name spreadsheet_demo)
+ (public_name pulse-spreadsheet)
+ (libraries pulse)
+ (modules spreadsheet_demo))
+
+(executable
+ (name portfolio_demo)
+ (public_name pulse-portfolio)
+ (libraries pulse)
+ (modules portfolio_demo))

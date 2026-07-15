@@ -1,0 +1,5 @@
+(library
+ (name pulse)
+ (public_name pulse)
+ (modules node graph scheduler var observer pulse)
+ (private_modules node graph scheduler var observer))

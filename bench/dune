@@ -1,0 +1,5 @@
+(executable
+ (name bench_pulse)
+ (public_name pulse-bench)
+ (libraries pulse unix)
+ (modules bench_pulse))

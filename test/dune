@@ -1,0 +1,4 @@
+(test
+ (name test_pulse)
+ (libraries pulse alcotest)
+ (modules test_pulse))
