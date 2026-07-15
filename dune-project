@@ -11,7 +11,7 @@
 (maintainers "Bright Senyo Gadzo")
 
 (source
- (github brightsenyogadzo/pulse))
+ (github bsg1104/pulse))
 
 (package
  (name pulse)

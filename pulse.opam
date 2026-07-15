@@ -6,8 +6,8 @@ description:
 maintainer: ["Bright Senyo Gadzo"]
 authors: ["Bright Senyo Gadzo"]
 license: "MIT"
-homepage: "https://github.com/brightsenyogadzo/pulse"
-bug-reports: "https://github.com/brightsenyogadzo/pulse/issues"
+homepage: "https://github.com/bsg1104/pulse"
+bug-reports: "https://github.com/bsg1104/pulse/issues"
 depends: [
   "ocaml" {>= "4.14"}
   "alcotest" {with-test}
@@ -28,4 +28,4 @@ build: [
     "@doc" {with-doc}
   ]
 ]
-dev-repo: "git+https://github.com/brightsenyogadzo/pulse.git"
+dev-repo: "git+https://github.com/bsg1104/pulse.git"
